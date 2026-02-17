@@ -24,11 +24,40 @@ Version: 0.1
 
 ### How do I get set up? ###
 
+1) Clone the repository
+
+git clone https://github.com/Rizvin123/Floyd-Warshall-Algorithm.git
+
+2) Navigate to the project directory
+
+cd <repo-dir>
+
+3) Ensure Python 3.8 or later is installed:
+
+python --version
 
 ### Running the scripts ###
+
+1) To run the iterative implementation:
+
+python src/iterative/iterative_floyd.py
+
+2) To run the recursive implementation:
+
+python src/recursion/recursive_floyd.py
+
+3) To run the performance comparison:
+
+python src/performance/performance_test.py
+
+4) To execute the unit tests:
+
+python -m unittest src/tests/unittests.py
 
 
 ### Requirements ### 
 
+1) Python 3.8 or later
 
+2) Standard library only (no external dependencies)
 
