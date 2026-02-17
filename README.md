@@ -30,7 +30,7 @@ git clone https://github.com/Rizvin123/Floyd-Warshall-Algorithm.git
 
 2) Navigate to the project directory
 
-cd <repo-dir>
+cd (repo-dir)
 
 3) Ensure Python 3.8 or later is installed:
 
